@@ -1,4 +1,4 @@
-<br>Project Title</b><br>
+<br><u>Project Title</b><br></u>
 Medical Cost Personal Dataset (Linear Regression)
 
 ---
