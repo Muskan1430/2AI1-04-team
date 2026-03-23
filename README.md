@@ -33,6 +33,40 @@ smoker     Smoking status (yes/no)
 region     Residential region 
 charges    Medical insurance charges (target variable) 
 <br>
+<table border="1">
+    <tr>
+        <th>Feature</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>age</td>
+        <td>Age of the individual</td>
+    </tr>
+    <tr>
+        <td>sex</td>
+        <td>Gender (male/female)</td>
+    </tr>
+    <tr>
+        <td>bmi</td>
+        <td>Body Mass Index</td>
+    </tr>
+    <tr>
+        <td>children</td>
+        <td>Number of dependents</td>
+    </tr>
+    <tr>
+        <td>smoker</td>
+        <td>Smoking status (yes/no)</td>
+    </tr>
+    <tr>
+        <td>region</td>
+        <td>Residential region</td>
+    </tr>
+    <tr>
+        <td>charges</td>
+        <td>Medical insurance charges (target variable)</td>
+    </tr>
+</table>
 The dataset is structured and contains no missing values.
 
 ---
