@@ -5,7 +5,7 @@ Medical Cost Personal Dataset (Linear Regression)
 
  Team Member Details
 Member 1 - Muskan: 2503031240067
-Member 2 - Meet: 2503031240063
+Member 2 - Meet: 2503031240063  
 Member 3 - Samir: 2503031240066
 Member 4 - Neelam: 2503031240070
 Member 5 - Nitin: 2503031240071
