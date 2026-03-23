@@ -22,17 +22,6 @@ The goal is to identify key factors affecting insurance costs and build a machin
 
 <b> Dataset Description<br></b>
 The dataset used in this project is taken from Kaggle Insurance Datset.<br>
-
-Feature    Description 
-
-age        Age of the individual 
-sex        Gender (male/female) 
-bmi        Body Mass Index 
-children   Number of dependents 
-smoker     Smoking status (yes/no) 
-region     Residential region 
-charges    Medical insurance charges (target variable) 
-<br>
 <table border="1">
     <tr>
         <th>Feature</th>
