@@ -18,6 +18,7 @@ print("\nColumn Names:")
 print(df.columns)
 
 
+
 # 3. DATA CLEANING
 df.drop_duplicates(inplace=True)
 df.fillna(df.mean(numeric_only=True), inplace=True)
