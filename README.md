@@ -1,9 +1,9 @@
-<b>Project Title</b><br>
+<br>Project Title</b><br>
 Medical Cost Personal Dataset (Linear Regression)
 
 ---
 
- Team Member Details<br>
+<b> Team Member Details<br></b>
 Member 1 - Muskan: 2503031240067<br>
 Member 2 - Meet: 2503031240063  <br>
 Member 3 - Samir: 2503031240066<br>
@@ -14,13 +14,13 @@ Member 7 - Sohel: 2503031240075<br>
 
 ---
 
- Problem Statement<br>
+<b> Problem Statement<br></b>
 The objective of this project is to predict medical insurance charges based on individual attributes such as age, gender, BMI, number of children, smoking habits, and region.  <br>
 The goal is to identify key factors affecting insurance costs and build a machine learning model to estimate charges accurately.<br>
 
 ---
 
- Dataset Description<br>
+<b> Dataset Description<br></b>
 The dataset used in this project is taken from Kaggle Insurance Datset.<br>
 
 Feature    Description 
@@ -37,7 +37,7 @@ The dataset is structured and contains no missing values.
 
 ---
 
- Data Preprocessing Steps<br>
+ <b>Data Preprocessing Steps<br></b>
 - Checked dataset for null/missing values
 - Converted categorical variables into numerical format using encoding:
   - sex → 0/1
@@ -48,7 +48,7 @@ The dataset is structured and contains no missing values.
 
 ---
 
- Model Used and Training Details<br>
+<b> Model Used and Training Details<br></b>
 - Model Used: Linear Regression  
 - Library: Scikit-learn  
 - The dataset was split into:
@@ -58,7 +58,7 @@ The dataset is structured and contains no missing values.
 
 ---
 
- Model Evaluation Results<br>
+<b> Model Evaluation Results<br></b>
 - The model performance was evaluated using:
   - Mean Absolute Error (MAE)
   - Mean Squared Error (MSE)
@@ -66,14 +66,14 @@ The dataset is structured and contains no missing values.
 
 ---
 
-- Key Observations:<br>
+<b> Key Observations:<br></b>
   - Smoking has a significant impact on insurance charges
   - Higher BMI leads to higher charges
   - Age also contributes to increased costs
 
 ---
 
- GitHub Collaboration Summary<br>
+<b> GitHub Collaboration Summary<br></b>
 - Repository created and managed on GitHub
 - Code and dataset uploaded to the repository
 - Version control maintained using commits
@@ -82,7 +82,7 @@ The dataset is structured and contains no missing values.
 
 ---
 
- Conclusion<br>
+ <b>Conclusion<br></b>
 This project successfully demonstrates how machine learning can be used to predict insurance charges.  <br>
 Linear Regression provides a good baseline model for this dataset.  <br>
 Further improvements can be made using advanced algorithms and hyperparameter tuning.<br>
